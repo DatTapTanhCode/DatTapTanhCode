@@ -5,17 +5,18 @@
   I enjoy building backend systems, setting up automated deployments, and using AI to solve real problems.
 </p>
 
----
+
 
 ## 🚀 About Me
 
 - 🎓 Third-year student in **Computer Science (Advanced Software Engineering)**, expected graduation: **July 2027**
 - 📊 Current GPA: ** / 4.0**
----
+
 
 ## 🛠️ Tech Stack
 
 **Backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +33,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+
 
 ## 📈 Featured Projects
 
@@ -43,7 +44,7 @@
 - Developed a web dashboard to display real-time data, reducing manual inspection errors.
 - **Tools:** Python, OpenCV, Flask, React.
 
----
+
 
 ### 🍽️ ROORS
 > A restaurant management and ordering system
@@ -53,7 +54,7 @@
 - Implemented real-time order tracking and customer chat using WebSocket
 - Fixed bugs in the Spring Boot backend related to orders and reservations
 
----
+
 
 ### 🎵 Simple Music Streaming Platform
 > A full-stack music streaming web application
@@ -62,7 +63,7 @@
 - Built the backend system using Python Flask with JWT authentication
 - Integrated AWS S3 for file storage and connected the React frontend to the API
 
----
+
 
 ## 📫 Let's Connect
 
