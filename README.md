@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Đỗ Thành Đạt 👋</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ea5d5c37-56cb-4f94-8b11-20fe735f3c05" /><h1 align="center">Hi there, I'm Đỗ Thành Đạt 👋</h1>
 
 <p align="center">
   A third-year Computer Science student at HCMC University of Technology (HCMUT - VNU).<br/>
@@ -67,10 +67,5 @@
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="mailto:dothanhdatwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+- 📧 **Email:** [dothanhdatwork@gmail.com]
 - 🌐 **Languages:** English (IELTS 6.5) · Vietnamese (Native)
